@@ -1,6 +1,6 @@
 # YouTube Clone 🎥
 
-Welcome to the **YouTube Clone** project! This web application replicates the core features of YouTube, allowing users to search and watch videos. Built using HTML, Tailwind CSS, React, and RapidAPI, this project showcases modern web development practices.
+Welcome to the **YouTube Clone** project! This web application replicates the core features of YouTube, allowing users to search and watch videos. Built using HTML, Tailwind CSS,JavaScript, React, and RapidAPI, this project showcases modern web development practices.
 
 ## Features ✨
 
