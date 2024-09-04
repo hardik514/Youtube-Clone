@@ -11,7 +11,7 @@ Welcome to the **YouTube Clone** project! This web application replicates the co
 
 ## Live Demo 🚀
 
-Check out the live version of the project: [YouTube Clone on Vercel](https://your-vercel-link.vercel.app)
+Check out the live version of the project: [YouTube Clone on Vercel](https://youtube-clone-pro7.netlify.app/)
 
 ## Screenshots 📸
 
